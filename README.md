@@ -44,4 +44,6 @@ Tratamento de Dados: Limpeza de dados de folha de pagamento no Power Query para 
 Segmentação por Abas: O projeto foi organizado em diferentes abas (Página 1, Medidas, Iterativas) para facilitar a manutenção e a navegação do usuário.
 
 # 💾 Fonte dos Dados
-Projeto realizado como parte do aprendizado prático em inteligência de negócios, focado na aplicação de Power BI para cenários corporativos de gestão de pessoas.
+Projeto realizado como parte do aprendizado prático em inteligência de negócios, focado na aplicação de Power BI para cenários corporativos de gestão de pessoas. 
+
+![Dashboard de RH](dashboard_rh.png) 
