@@ -48,3 +48,4 @@ Projeto realizado como parte do aprendizado prático em inteligência de negóci
 
 ![Dashboard de RH](dashboard_rh.png) 
 ![Dashboard de RH](dashboard_rh.png.2.png) 
+![Dashboard de RH](dashboard_rh.png.3.png) 
